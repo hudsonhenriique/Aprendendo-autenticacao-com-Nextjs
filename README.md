@@ -49,9 +49,9 @@ Este projeto tem como objetivo implementar autenticação em uma aplicação Nex
 
 ## 📈 Melhorias Futuras
 
-- [] Adicionar integração com bancos de dados para armazenamento de usuários 
-- [] Implementar reset de senha via email
-- [] Adicionar autenticação de 2 fatores (2FA)
+- [ ] Adicionar integração com bancos de dados para armazenamento de usuários 
+- [ ] Implementar reset de senha via email
+- [ ] Adicionar autenticação de 2 fatores (2FA)
 
 ---
 
