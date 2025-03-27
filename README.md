@@ -1,75 +1,75 @@
-# 🔐 Aprendendo Autenticação com Next.js
+# 🔐 Learning Authentication with Next.js
 
-Este projeto tem como objetivo implementar autenticação em uma aplicação Next.js. O foco é aprender a integrar autenticação com **Next.js**, usando bibliotecas populares e práticas recomendadas de segurança.
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-- **Next.js** → Framework React para renderização do lado servidor (SSR)  
-- **React** → Biblioteca JavaScript para construção de interfaces  
-- **JWT (JSON Web Tokens)** → Método para autenticação segura  
-- **NextAuth.js** → Biblioteca de autenticação para Next.js  
+This project aims to implement authentication in a Next.js application. The focus is on learning how to integrate authentication with **Next.js**, using popular libraries and best security practices.
 
 ---
 
-## 📦 Como Executar o Projeto
+## 🚀 Technologies Used
 
-1. **Clone este repositório**:
+- **Next.js** → React framework for server-side rendering (SSR)  
+- **React** → JavaScript library for building interfaces  
+- **JWT (JSON Web Tokens)** → Secure authentication method  
+- **NextAuth.js** → Authentication library for Next.js  
+
+---
+
+## 📦 How to Run the Project
+
+1. **Clone this repository**:
    ```bash
    git clone https://github.com/hudsonhenriique/Aprendendo-autenticacao-com-Nextjs.git
    ```
 
-2. Acesse a pasta do projeto:
+2. Navigate to the project folder:
    ```bash
    cd Aprendendo-autenticacao-com-Nextjs
    ```
 
-3. Instale as dependências.
+3. Install dependencies:
    ```bash
    npm install
    ```
-4. Execute o projeto:
+4. Run the project:
    ```bash
    npm run dev
    ```
 
-5. Abra o navegador e acesse http://localhost:3000 para ver o aplicativo em funcionamento.
+5. Open your browser and go to `http://localhost:3000` to see the application in action.
 
-   ---
+---
    
-# 🛠️ Funcionalidades Implementadas
+# 🛠️ Implemented Features
 
-- ✅ **Autenticação de usuários com NextAuth.js**
-- ✅ **Uso de JWT para sessões de usuário**
-- ✅ **Proteção de rotas e páginas privadas**
-- ✅ **Formulários de login e registro** 
+- ✅ **User authentication with NextAuth.js**
+- ✅ **JWT-based user sessions**
+- ✅ **Route protection and private pages**
+- ✅ **Login and registration forms**
+  
+---
+
+## 📈 Future Improvements
+
+- [ ] Add database integration for user storage
+- [ ] Implement password reset via email
+- [ ] Add two-factor authentication (2FA)
 
 ---
 
-## 📈 Melhorias Futuras
+## 🤝 Contributing
 
-- [ ] Adicionar integração com bancos de dados para armazenamento de usuários 
-- [ ] Implementar reset de senha via email
-- [ ] Adicionar autenticação de 2 fatores (2FA)
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas!  
-Se quiser sugerir melhorias ou reportar problemas, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.  
+Contributions are welcome!
+If you’d like to suggest improvements or report issues, feel free to open an **issue** or submit a **pull request**.  
 
 ---
 
-## 📄 Licença
+## 📄 License
 
-Este projeto está sob a licença MIT.  
-Veja o arquivo **LICENSE** para mais detalhes.  
+This project is licensed under the MIT License.
+See the **LICENSE** file for more details.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - 📧 **Email**: hudson.henri10@gmail.com 
 - 💼 **LinkedIn**: (https://www.linkedin.com/in/hudsonhenri)  
